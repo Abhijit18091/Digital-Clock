@@ -1,6 +1,6 @@
 # Digital-Clock
 This is a purely digital clock, built on HTML, CSS, and JavaScript. It offers users real-time time information. Major features include
-Demo visit my website: http://127.0.0.1:5500/index%20(1).html
+Demo visit my website:[ http://127.0.0.1:5500/index%20(1).html](http://127.0.0.1:5502/Digital%20Clock/index%20(1).html)
 Real-Time Timekeeping: Current time of hours, minutes, seconds updated in real time; every second.
 Simple and Elegant Design: A minimalist user interface built with CSS for clarity and an emphasis on the clock display.
 Responsive Layout: This clock automatically resizes itself and layout as needed for an optimum viewing experience across a wide range of devices.
